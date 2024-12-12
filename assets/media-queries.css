@@ -1,0 +1,30 @@
+/* media-queries.css */
+@media (min-width: 621px) {
+    .pc-lg-hide {
+        display: none;
+    }
+
+    .pc-lg-bg-img-hide {
+        background-image: none !important;
+    }
+}
+
+@media (max-width: 620px) {
+    .pc-project-body {
+        min-width: 0px !important;
+    }
+
+    .pc-project-container {
+        width: 100% !important;
+    }
+
+    .pc-sm-hide {
+        display: none !important;
+    }
+
+    .pc-sm-bg-img-hide {
+        background-image: none !important;
+    }
+
+    /* Add other media query rules here */
+}
