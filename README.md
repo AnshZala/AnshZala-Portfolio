@@ -42,9 +42,6 @@ AnshZala-Portfolio/
 ├── README.md          # Documentation file
 ```
 
-## 🖼️ Preview
-![Portfolio Preview](https://via.placeholder.com/800x400?text=Portfolio+Preview)
-
 ## 🧑‍💻 About Me
 I’m Ansh Zala, a final-year B.Tech CSE student at IIIT Vadodara from Ahmedabad, Gujarat. I am passionate about building innovative web applications, solving complex problems, and contributing to impactful projects. My journey combines expertise in software development, music, and a love for learning new technologies.
 
